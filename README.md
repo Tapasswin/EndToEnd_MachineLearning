@@ -13,7 +13,7 @@
 8. Update the main.py
 9. Update the app.py
 
-
+The above steps need to be followed starting with Data Ingestion, Data Validation, Data Transformation, Model Training, and Model Evaluation.
 
 # How to run?
 ### STEPS:
