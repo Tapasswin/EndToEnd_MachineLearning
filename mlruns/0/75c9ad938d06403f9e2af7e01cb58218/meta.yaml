@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/pythonProject/EndToEnd_MachineLearning_MLflow/mlruns/0/75c9ad938d06403f9e2af7e01cb58218/artifacts
+end_time: 1699163073347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75c9ad938d06403f9e2af7e01cb58218
+run_name: abrasive-hen-106
+run_uuid: 75c9ad938d06403f9e2af7e01cb58218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699163066463
+status: 3
+tags: []
+user_id: Manch
